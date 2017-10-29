@@ -1,0 +1,71 @@
+*{
+    margin: 0px;
+    padding: 0px
+}
+
+#wrapper{
+    width: 744px;
+    height: 717px;
+    margin: 0 auto;
+    background-color: #d4d1ae;
+}
+
+#header{
+    height: 107px;
+    width: 684px;
+    margin: 2px auto;
+}
+
+.github{
+ height: 66px;
+ width: 123px;
+ margin-left: 72px;
+ margin-top: 20px;
+ display: inline-block;
+ vertical-align: top;
+}
+
+h1{
+    width: 272px;
+    display: inline-block;
+    vertical-align: bottom;
+}
+
+.catandninja{
+    height: 66px;
+    width: 123px;
+    background-color:white;
+    margin-top: 20px;
+}
+
+#row1,#row2, #row3, #row4 {
+    height: 117px;
+    width: 669px;
+    margin: 13px auto;
+}
+
+#row1 img, #row2  img,#row3  img,#row4  img{
+     height: 117px;
+     width: 121px;
+     border: 4px solid black;
+}
+
+         
+   
+
+
+     
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
